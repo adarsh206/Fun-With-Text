@@ -1,7 +1,7 @@
 # Fun-With-Text
 Build a simple Fun With Text App with HTML, CSS &amp; JAVASCRIPT.
 
-# Description:
+# How to use this project:
 
 1. First download this project into your local system.
 2. then open in any code editor like vs code.
